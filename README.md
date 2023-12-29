@@ -9,14 +9,12 @@
 
 BMI is a person's body mass divided by the square of their body mass, typically expressed in kg/m². The National Health and Nutrition Examination Survey (NHANES) uses a person's weight in pounds and height in inches to calculate their BMI.
 
-In this calculator, we classify the risk categories based on the World Health Organization (WHO) criteria. Here's a summary of the categories:
+🚀 In this calculator, we classify the risk categories based on the World Health Organization (WHO) criteria. Here's a summary of the categories:
 
 Underweight: BMI < 18.5
 Normal weight: BMI 18.5 - 24.9
 Overweight: BMI 25 - 29.9
 Obese: BMI 30 and above
-
-🚀 Try it yourself: https://tubayapa.github.io/BMI-Calculator/
 
 🛠️ Tech Stack: HTML, CSS, JavaScript
 
