@@ -18,8 +18,6 @@ Obese: BMI 30 and above
 
 🛠️ Tech Stack: HTML, CSS, JavaScript
 
-📜 License: MIT
-
 📣 Shoutout to World Health Organization for providing the BMI calculator.
 
 🌟 Like this project? Give it a star and follow me for more exciting web development projects!
